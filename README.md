@@ -50,8 +50,8 @@ Deepfake_detection_using_deep_learning
 |model_93_acc_100_frames_final_data.pt| 6000 | 100 | 93.58794|
 
 ## 6. Contributors
-   1. Harsh Bothara
-   2. Arya Shah
+   1. [Harsh Bothara](https://github.com/harshBothara24/)
+   2. [Arya Shah](https://github.com/AryaShah07/)
    3. Ashwin Thakur
    4. Atharva Kale
    

@@ -53,7 +53,7 @@ Deepfake_detection_using_deep_learning
    1. [Harsh Bothara](https://github.com/harshBothara24/)
    2. [Arya Shah](https://github.com/AryaShah07/)
    3. Ashwin Thakur
-   4. Atharva Kale
+   4. [Atharva Kale](https://github.com/Atharva847)
    
 ## 7. License
 

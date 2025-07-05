@@ -71,5 +71,5 @@ Deepfake_detection_using_deep_learning
 - [X] ~~Enabling working of project on Non Cuda Computers. i.e on normal or AMD GPUs~~ : not possible as dlib uses CUDA internally
 
 ## 9. Credits
-This project was originally inspired by the deepfake detection work done by Abhijit Jadhav. We acknowledge his contributions. You can check out his work on GitHub(https://github.com/abhijithjadhav/Deepfake_detection_using_deep_learning).
+This project was originally inspired by the deepfake detection work done by Abhijit Jadhav. We acknowledge his contributions. You can check out his work on [GitHub](https://github.com/abhijithjadhav/Deepfake_detection_using_deep_learning).
 
